@@ -25,11 +25,9 @@
   width: 300px;
 }
 
-.containerBar {
-  margin-top: 40px;
+.containerCard {
+  margin-top: 20px;
   width: 100%;
   display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
+  flex-wrap: wrap;
 }
